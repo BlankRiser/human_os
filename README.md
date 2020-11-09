@@ -1,0 +1,7 @@
+# human_os
+
+A project developed by Reuben, Shivangi and I for an NGO.
+The website for development purposes has been hosted using Github pages and is live at [https://blankriser.github.io/human_os/about_us.html](https://blankriser.github.io/human_os/about_us.html)
+
+
+All the rights to the website will be transferred to the NGO as soon as its completed.
