@@ -73,7 +73,7 @@ p {
   padding: 0px; }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #545454; }
+  color: #F0A738; }
 
 body {
   background-color: #f1f1f145 !important;
@@ -706,7 +706,7 @@ text-align: center;
         width: 100%; }
       .our-team .team-row .single-usr .det-o {
         padding: 20px;
-        background-color: #3cc88f; }
+        background-color: #F0A738; }
         .our-team .team-row .single-usr .det-o h4 {
           color: #FFF;
           margin-bottom: 0px;
@@ -729,7 +729,13 @@ text-align: center;
     margin-top: 7px;
     float: right;
     border-radius: 50px; }
-
+/* .nav-link{
+  background-color: #F0A738;
+} */
+header .nav-col .navbad li a:hover {
+  background-color: #F0A738;
+  color: #fff !important;
+}
 /* ===================================== Gallery Style  ================================== */
 .gallery-filter {
   width: 100%;
